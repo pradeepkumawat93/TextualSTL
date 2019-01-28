@@ -8,11 +8,11 @@ int main() {
 	s.push(2);
 	s.print();
 	cout << "Empty::" << s.empty() << ", size::" << s.size() << endl;
+	cout << "hii" << endl;
 	/*cout << "-------------OrdinaryQueue--------" << endl;
 	{
 		OrdinaryQueue<int> oq(12);
 		oq.enqueue(1);
-
 		oq.enqueue(2);
 		oq.print();
 	}*/
