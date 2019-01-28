@@ -12,6 +12,7 @@ int main() {
 	{
 		OrdinaryQueue<int> oq(12);
 		oq.enqueue(1);
+
 		oq.enqueue(2);
 		oq.print();
 	}*/
